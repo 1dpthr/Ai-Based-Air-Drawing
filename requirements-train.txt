@@ -1,0 +1,4 @@
+tensorflow>=2.12
+tensorflow-datasets>=4.9
+importlib_resources>=5.0
+scipy>=1.10
